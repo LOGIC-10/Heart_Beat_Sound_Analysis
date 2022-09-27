@@ -17,7 +17,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
-# 不拉取的情况下增加一行代码，测试github的推送逻辑
+# 不拉取的情况下变换一行代码，测试github的推送逻辑，看是否会冲突
 emo2=0
 x=[]
 y=[]
